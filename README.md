@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kachowchow!
-- 👀 I’m interested in ... Game Development, Volleyball, Taekwondo, and Playing Games!
+- 👀 I’m interested in ... Data Analytics, Volleyball, and Playing Games!
 - 🌱 I’m currently learning ... Computer Science at Carleton University
-- 💞️ I’m looking to collaborate on ... Game Projects, Coding Projects, Anything :)
+- 💞️ I’m looking to connecting on ... Projects, Networking Events, or Anything :)
 - 📫 How to reach me ... Instagram: @aidan._.chow Discord: kachow#7310 
 
 <!---
