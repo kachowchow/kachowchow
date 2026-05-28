@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kachowchow!
-- 👀 I’m interested in ... Back-end Development, Machine Learning, Volleyball, and Playing Games!
+- 👀 I’m interested in ... Back-end Development, Cloud Computing (AWS, GCP), Volleyball, and Playing Games!
 - 🌱 I’m currently learning ... Computer Science at Carleton University
 - 💞️ I’m looking to connect on ... Projects, Networking Events, or Anything :)
 - 📫 How to reach me ... Instagram: @aidan._.chow Discord: .kachow. 
